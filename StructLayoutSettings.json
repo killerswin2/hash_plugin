@@ -1,0 +1,12 @@
+{
+  "ExtractionTool": 1,
+  "AutomaticExtraction": false,
+  "CMakeCommandsFile": "",
+  "AdditionalPreprocessorDefinitions": "",
+  "AdditionalIncludeDirs": "",
+  "AdditionalForceIncludes": "",
+  "AdditionalCommandLine": "",
+  "EnableWarnings": false,
+  "PDBLocation": "D:\\intercept\\object\\build\\win64\\hash_plugin_x64.pdb",
+  "ParserOutputFolder": ""
+}

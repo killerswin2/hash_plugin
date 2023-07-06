@@ -1,0 +1,6 @@
+[submodule "intercept"]
+	path = intercept
+	url = https://github.com/intercept/intercept.git
+[submodule "vendors/emhash"]
+	path = vendors/emhash
+	url = https://github.com/ktprime/emhash.git
